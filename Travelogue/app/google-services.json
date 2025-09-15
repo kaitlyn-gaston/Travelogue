@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1060839331143",
+    "project_id": "cs388-64abc",
+    "storage_bucket": "cs388-64abc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1060839331143:android:f1da1d9015847e56b96862",
+        "android_client_info": {
+          "package_name": "com.example.travelogue"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBm3YyAK2C1xQbNzCmjiIZkxpGljyg7_XI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
